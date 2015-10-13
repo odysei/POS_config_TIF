@@ -1,11 +1,11 @@
 ConfigurationAliases
-Physics     50   ;
+Physics     50   detconfig  Default  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  ltcconfig  Default  ;
 PhysicsEmulator     1   ;
 Delay25     46   ;
 TBMDelay     3   ;
 VcThrCalDel     41   detconfig  Default  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  calib VcThrCalDel  ltcconfig  Default  ;
 VcThr     38   ;
-CalDel     39   ;
+CalDel     39   detconfig  Default  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  calib  CalDel  ltcconfig  Default  ;
 CalDel_wide     25   ;
 PixelAlive     49   detconfig  Default  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  calib  PixelAlive  ltcconfig  Default  ;
 PixelAliveBy3     22   ;
@@ -41,7 +41,9 @@ trim  6 TrimOn ;
 tbm  1 Default ;
 portcard  1 Default ;
 portcardmap  2 Default ;
-ttcciconfig  8 Default ;
+ttcciconfig  9 Default ;
 tkfecconfig  0 Default ;
 ltcconfig  0 Default ;
+calib  4 VcThrCalDel ;
 calib  6 PixelAlive ;
+calib  23 CalDel ;
