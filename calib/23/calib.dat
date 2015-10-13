@@ -6,8 +6,8 @@ Cols:
 11 | 21
 VcalLow
 Scan: CalDel 0 255 2
-Scan: WBC 92 93 1
-Set: Vcal 50
+Scan: WBC 90 92 1
+Set: Vcal 100
 Repeat: 10
 ToCalibrate:
 all
