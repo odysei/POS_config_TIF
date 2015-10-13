@@ -3,7 +3,7 @@ Physics     50   ;
 PhysicsEmulator     1   ;
 Delay25     46   ;
 TBMDelay     3   ;
-VcThrCalDel     41   ;
+VcThrCalDel     41   detconfig  Default  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  calib VcThrCalDel  ltcconfig  Default  ;
 VcThr     38   ;
 CalDel     39   ;
 CalDel_wide     25   ;
