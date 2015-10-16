@@ -1,0 +1,11 @@
+Mode: PixelAlive
+Rows:
+ 25 
+Cols:
+ 25 
+Vcal:
+255 255 1
+Repeat:
+1000
+Rocs:
+all
