@@ -26,6 +26,7 @@ PHRange     380   detconfig  Default  nametranslation  Default  fedconfig  Defau
 Gain99By3     381   detconfig  Default  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  calib  Gain99By3  ltcconfig  Default  maxvsf  Default  ;
 GainBy3     382   detconfig  Default  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  calib  GainBy3  ltcconfig  Default  maxvsf  Default  ;
 Iana     383   detconfig  Default  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  lowvoltagemap  Default  calib  Iana  ltcconfig  Default  maxvsf  Default  ;
+Physics_SingleModule     384   detconfig  DetConfigSingleModule  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  ltcconfig  Default  ;
 VersionAliases
 detconfig  5 Default ;
 nametranslation  12 Default ;
