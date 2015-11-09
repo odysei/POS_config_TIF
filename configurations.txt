@@ -6647,3 +6647,19 @@ tkfecconfig   0
 ttcciconfig   14
 ltcconfig   0
 
+key 386
+detconfig   6
+nametranslation   12
+fedconfig   0
+fedcard   5
+fecconfig   0
+dac   29
+mask   3
+trim   7
+tbm   4
+portcard   1
+portcardmap   3
+tkfecconfig   0
+ttcciconfig   14
+ltcconfig   0
+
