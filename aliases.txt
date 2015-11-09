@@ -68,3 +68,4 @@ calib  23 CalDel ;
 calib  24 SCurve99by3TwoWBC ;
 calib  25 CalDel_wide ;
 calib  26 SCurve ;
+detconfig  6 DetConfigSingleModule ;
