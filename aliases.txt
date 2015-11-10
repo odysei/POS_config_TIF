@@ -71,3 +71,4 @@ calib  25 CalDel_wide ;
 calib  26 SCurve ;
 detconfig  6 DetConfigSingleModule ;
 ttcciconfig  14 RepetitiveTrigger ;
+fedcard  6 FedCard_MonitorFibre9_TBMA ;
