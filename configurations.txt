@@ -8330,3 +8330,19 @@ ltcconfig   0
 tkfecconfig   0
 lowvoltagemap   2
 
+
+key 485
+detconfig   6
+nametranslation   12
+fedconfig   0
+fecconfig   0
+dac   29
+mask   3
+trim   7
+tbm   5
+portcard   1
+portcardmap   3
+tkfecconfig   0
+ttcciconfig   27
+ltcconfig   0
+fedcard   7
