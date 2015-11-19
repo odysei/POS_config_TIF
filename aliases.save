@@ -28,7 +28,7 @@ Gain99By3     511   detconfig  Default  nametranslation  Default  fedconfig  Def
 GainBy3     512   detconfig  Default  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  calib  GainBy3  ltcconfig  Default  maxvsf  Default  ;
 Iana     513   detconfig  Default  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  lowvoltagemap  Default  calib  Iana  ltcconfig  Default  maxvsf  Default  ;
 Physics_SingleModule     514   detconfig  DetConfigSingleModule  nametranslation  Default  fedconfig  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  RepetitiveTrigger  ltcconfig  Default  fedcard  FedCard_MonitorFibre9_TBMA  ;
-PixelAlive_hmm  517   detconfig  Default  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  calib  PixelAlive  ltcconfig  Default  ;
+PixelAlive_hmm  515   detconfig  Default  nametranslation  Default  fedconfig  Default  fedcard  Default  fecconfig  Default  dac  Default  mask  Default  trim  Default  tbm  Default  portcard  Default  portcardmap  Default  tkfecconfig  Default  ttcciconfig  Default  calib  PixelAlive  ltcconfig  Default  ;
 VersionAliases
 detconfig  5 Default ;
 nametranslation  3 Default ;
@@ -66,6 +66,7 @@ calib  18 PHRange ;
 calib  19 Gain99By3 ;
 calib  20 GainBy3 ;
 calib  21 Iana ;
+lowvoltagemap   0
 calib  22 PixelAliveBy3 ;
 calib  23 CalDel ;
 calib  24 SCurve99by3TwoWBC ;
