@@ -8956,3 +8956,36 @@ ltcconfig   0
 tkfecconfig   0
 lowvoltagemap 3
 maxvsf 3
+
+key 521
+detconfig   6
+nametranslation   12
+fedconfig   0
+fecconfig   0
+dac   29
+mask   3
+trim   7
+tbm   5
+portcard   1
+portcardmap   3
+tkfecconfig   0
+ttcciconfig   24
+ltcconfig   0
+fedcard   7
+
+key 522
+detconfig   6
+nametranslation   12
+fedconfig   0
+fecconfig   0
+dac   29
+mask   3
+trim   7
+tbm   5
+portcard   1
+portcardmap   3
+tkfecconfig   0
+ttcciconfig   6
+ltcconfig   0
+fedcard   7
+calib   7
