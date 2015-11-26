@@ -9022,3 +9022,20 @@ ttcciconfig   6
 ltcconfig   0
 fedcard   7
 calib   7
+
+
+key 525
+detconfig   9
+nametranslation   17
+fedconfig   0
+fecconfig   0
+dac   29
+mask   3
+trim   7
+tbm   7
+portcard   1
+portcardmap   3
+tkfecconfig   0
+ttcciconfig   24
+ltcconfig   0
+fedcard   7
