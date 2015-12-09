@@ -1,5 +1,6 @@
 ConfigurationAliases
 TimeoutgTest     525   ;
+TimeoutgTest_tunedTBMparam     529   ;
 PixAliv_withTimeoutCondition     524   ;
 tbmdelay_PLL_withTimeoutCondition     526   ;
 tbmdelay_tbma_withTimeoutCondition     527   ;
