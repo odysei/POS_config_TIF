@@ -9823,7 +9823,7 @@ ttcciconfig   24
 ltcconfig   0
 fedcard   7
 
-key 580
+key 574
 detconfig   9
 nametranslation   17
 fedconfig   0
@@ -9839,7 +9839,7 @@ ttcciconfig   24
 ltcconfig   0
 fedcard   7
 
-key 581
+key 575
 detconfig   9
 nametranslation   17
 fedconfig   0
@@ -9855,7 +9855,7 @@ ttcciconfig   24
 ltcconfig   0
 fedcard   7
 
-key 582
+key 576
 detconfig   9
 nametranslation   17
 fedconfig   0
@@ -9871,7 +9871,7 @@ ttcciconfig   24
 ltcconfig   0
 fedcard   7
 
-key 583
+key 577
 detconfig   9
 nametranslation   17
 fedconfig   0
@@ -9887,7 +9887,7 @@ ttcciconfig   24
 ltcconfig   0
 fedcard   7
 
-key 584
+key 578
 detconfig   9
 nametranslation   17
 fedconfig   0
@@ -9903,7 +9903,7 @@ ttcciconfig   24
 ltcconfig   0
 fedcard   7
 
-key 585
+key 579
 detconfig   9
 nametranslation   17
 fedconfig   0
